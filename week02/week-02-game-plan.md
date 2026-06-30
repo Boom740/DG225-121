@@ -40,7 +40,7 @@ Live / GameOver และ SFX + jingle เป็น MVP ควรทำก่อ
 
 Bonus fruit เก็บไว้ทำทีหลัง
 
-Cutscene สามารถตัดทิ้งได้
+Cutscene สามารถตัดทิ้งได้เลย
 
 ```mermaid
 gantt
