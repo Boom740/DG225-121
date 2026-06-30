@@ -51,8 +51,10 @@ Concept & GDD :done, c1, 2026-07-06, 5d
 section Production
 Maze Movement :active, p1, after c1, 5d
 Ghost AI : p2, after p1, 7d
-Pellet & Score : p3, after p2, 7d
+Live & GameOver : p3, after p2, 5d
+Pellet & Score : p4, after p3, 7d
 section Post
-QA & Bug Fix : q1, after p3, 5d
+QA & Bug Fix : q1, after p4, 5d
 Release Build :milestone, m1, after q1, 0d
+Beta :milestone, m2, after m1, 5d
 ```
